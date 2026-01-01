@@ -42,7 +42,8 @@
 ## 📸 Aperçu Visuel
 
 ### Application Web Déployée
-![Démo CardioPredict AI](screenshots/demo-interface.png)
+<img width="1881" height="967" alt="Capture d’écran 2026-01-01 221756" src="https://github.com/user-attachments/assets/4c1db0b6-6db7-4d84-95f4-2b79deb4f971" />
+
 
 ### Architecture du Cluster Spark
 ```
@@ -151,8 +152,10 @@ Docker Network: cluster
 - **HDFS UI** : http://localhost:9870 - Système de fichiers
 - **YARN UI** : http://localhost:8088 - Gestion des ressources
 
-![Spark UI](screenshots/spark-ui.png)
-![HDFS UI](screenshots/hdfs-ui.png)
+<img width="1917" height="977" alt="Capture d’écran 2026-01-01 222302" src="https://github.com/user-attachments/assets/133549d2-df84-4653-8ed2-065b010d2d74" />
+<img width="1917" height="907" alt="Capture d’écran 2026-01-01 222146" src="https://github.com/user-attachments/assets/fcf663cb-31ed-41ea-87fb-9f7a0317ae15" />
+<img width="1918" height="892" alt="Capture d’écran 2026-01-01 222203" src="https://github.com/user-attachments/assets/bd5f2c6a-0cb2-4679-bcd6-383b2a1f0058" />
+<img width="1918" height="796" alt="Capture d’écran 2026-01-01 222219" src="https://github.com/user-attachments/assets/2b8768da-cdec-4083-a804-6b5863cff4f8" />
 
 ---
 
@@ -322,7 +325,6 @@ Projet Big Data - Apache Spark & MLlib
 
 ---
 
----
-
 **Fait avec ❤️ et beaucoup de ☕**
+
 
